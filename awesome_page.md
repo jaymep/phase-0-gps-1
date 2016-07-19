@@ -1,5 +1,6 @@
 **This is an awesome page.**
-* merge conflict!!!!
+* this is my change
+
 *(Awesome being a subjective term.)*
 
 ```
